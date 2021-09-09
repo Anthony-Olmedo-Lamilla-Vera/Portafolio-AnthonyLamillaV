@@ -6,19 +6,19 @@ function Header() {
   return (
     <nav className="nav-content">
       <div className="nav-logo">
-        <Link to="Portafolio-AnthonyLamillaV/Home">
+        <Link to="/Portafolio-AnthonyLamillaV/">
           <img className="logo" src={Logo} alt="" />
         </Link>
       </div>
       <div className="nav-item">
         <li>
-          <Link to="Portafolio-AnthonyLamillaV/Home">Home</Link>
+          <Link to="/Portafolio-AnthonyLamillaV/">Home</Link>
         </li>
         <li>
-          <Link to="Portafolio-AnthonyLamillaV/Projects">Projects</Link>
+          <Link to="/Portafolio-AnthonyLamillaV/Projects">Projects</Link>
         </li>
         <li>
-          <Link to="Portafolio-AnthonyLamillaV/Blog-Personal">
+          <Link to="/Portafolio-AnthonyLamillaV/Blog-Personal">
             Blog Personal
           </Link>
         </li>

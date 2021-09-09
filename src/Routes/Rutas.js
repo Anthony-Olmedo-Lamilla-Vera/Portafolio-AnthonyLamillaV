@@ -8,13 +8,13 @@ import "../Style/Styles.css";
 function Rutas() {
   return (
     <Switch>
-      <Route exact path="Portafolio-AnthonyLamillaV/Home">
+      <Route exact path="/Portafolio-AnthonyLamillaV/">
         <Home />
       </Route>
-      <Route exact path="Portafolio-AnthonyLamillaV/Projects">
+      <Route exact path="/Portafolio-AnthonyLamillaV/Projects">
         <Proyectos />
       </Route>
-      <Route exact path="Portafolio-AnthonyLamillaV/Blog-Personal">
+      <Route exact path="/Portafolio-AnthonyLamillaV/Blog-Personal">
         <BlogPersonal />
       </Route>
     </Switch>
