@@ -177,9 +177,11 @@ body {
   }
   .grid-card {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 0.8fr 1fr;
   }
   .img-card {
+    margin: auto;
+    width: 80%;
     text-align: center;
     border-radius: var(--Tamaña-BorderRadius);
   }
@@ -339,7 +341,7 @@ body {
     height: 18.0625rem;
   }
   .width-Proyectos {
-    width: 64%;
+    width: 60%;
     margin: auto;
   }
   .img-card img {
