@@ -19,9 +19,6 @@ function BlogPersonal() {
               </div>
               <div className="Card-BlogPersonal">
                 <CardBlogPersonal />
-                <CardBlogPersonal />
-                <CardBlogPersonal />
-                <CardBlogPersonal />
               </div>
             </div>
           </div>
