@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Portafolio-AnthonyLamillaV/static/css/main.46fe0922.chunk.css",
-    "main.js": "/Portafolio-AnthonyLamillaV/static/js/main.9a339ac4.chunk.js",
-    "main.js.map": "/Portafolio-AnthonyLamillaV/static/js/main.9a339ac4.chunk.js.map",
+    "main.css": "/Portafolio-AnthonyLamillaV/static/css/main.bc417c2d.chunk.css",
+    "main.js": "/Portafolio-AnthonyLamillaV/static/js/main.ccdd5c0d.chunk.js",
+    "main.js.map": "/Portafolio-AnthonyLamillaV/static/js/main.ccdd5c0d.chunk.js.map",
     "runtime-main.js": "/Portafolio-AnthonyLamillaV/static/js/runtime-main.1f09caf4.js",
     "runtime-main.js.map": "/Portafolio-AnthonyLamillaV/static/js/runtime-main.1f09caf4.js.map",
     "static/js/2.7726b85a.chunk.js": "/Portafolio-AnthonyLamillaV/static/js/2.7726b85a.chunk.js",
     "static/js/2.7726b85a.chunk.js.map": "/Portafolio-AnthonyLamillaV/static/js/2.7726b85a.chunk.js.map",
     "index.html": "/Portafolio-AnthonyLamillaV/index.html",
-    "static/css/main.46fe0922.chunk.css.map": "/Portafolio-AnthonyLamillaV/static/css/main.46fe0922.chunk.css.map",
+    "static/css/main.bc417c2d.chunk.css.map": "/Portafolio-AnthonyLamillaV/static/css/main.bc417c2d.chunk.css.map",
     "static/js/2.7726b85a.chunk.js.LICENSE.txt": "/Portafolio-AnthonyLamillaV/static/js/2.7726b85a.chunk.js.LICENSE.txt",
     "static/media/Appnotas.93fc39cf.png": "/Portafolio-AnthonyLamillaV/static/media/Appnotas.93fc39cf.png",
     "static/media/Banner.42677ba9.png": "/Portafolio-AnthonyLamillaV/static/media/Banner.42677ba9.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.1f09caf4.js",
     "static/js/2.7726b85a.chunk.js",
-    "static/css/main.46fe0922.chunk.css",
-    "static/js/main.9a339ac4.chunk.js"
+    "static/css/main.bc417c2d.chunk.css",
+    "static/js/main.ccdd5c0d.chunk.js"
   ]
 }
